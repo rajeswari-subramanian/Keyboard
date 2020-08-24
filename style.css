@@ -1,0 +1,14 @@
+textarea{
+    text-align: left;
+    background-color: azure;
+}
+#disp{
+    font-size: 50px;
+    font-weight: bolder;
+    color:purple
+}
+#num,#qRow,#aRow,#zRow,#onMode,#offMode{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
